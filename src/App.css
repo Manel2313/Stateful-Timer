@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.text{
+  font-size: 20px;
+  text-decoration: underline;
+  color: #029257;
+}
+
+.the-input{
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.none{
+  display: none;
+}
+
+.timer{
+  font-size: 25px
+}
+.buttons{
+  border: 1px solid #025030;
+  border-radius: 5px;
+  padding: 5px 20px;
+  margin: 15px;
+  font-weight: 600;
+}
+.buttons:hover{
+  cursor: pointer;
+  background: #025030;
+  color: white;
+  
+}
