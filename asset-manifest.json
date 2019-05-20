@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stateful-Timer/static/css/main.7aa6c0bd.chunk.css",
+    "main.js": "/Stateful-Timer/static/js/main.d6bb93f3.chunk.js",
+    "main.js.map": "/Stateful-Timer/static/js/main.d6bb93f3.chunk.js.map",
+    "runtime~main.js": "/Stateful-Timer/static/js/runtime~main.9d07a8e0.js",
+    "runtime~main.js.map": "/Stateful-Timer/static/js/runtime~main.9d07a8e0.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Stateful-Timer/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Stateful-Timer/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Stateful-Timer/index.html",
+    "precache-manifest.8cb68a180afa6714e1facefd64df1178.js": "/Stateful-Timer/precache-manifest.8cb68a180afa6714e1facefd64df1178.js",
+    "service-worker.js": "/Stateful-Timer/service-worker.js",
+    "static/css/main.7aa6c0bd.chunk.css.map": "/Stateful-Timer/static/css/main.7aa6c0bd.chunk.css.map"
+  }
+}
